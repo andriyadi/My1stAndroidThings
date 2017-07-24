@@ -11,6 +11,11 @@ How it works and how to install the app: https://www.youtube.com/watch?v=1N22_RT
 * BME/BMP280 sensor (temperature, pressure)
 * SSD1306 OLED display
 
+## My Setup
+Quite frankly, I hate jumpers :) So I made a simple Raspberry Pi HAT by soldering everything on protoboard as following. 
+![MySetup](https://github.com/andriyadi/My1stAndroidThings/raw/master/MySetup.jpg)
+But you can just connect the sensor and display using jumper cable as following schematics.
+
 ## Schematics
 The connection between Raspberry Pi 3, BMP/BME 280 sensor, and OLED display is following.
 
